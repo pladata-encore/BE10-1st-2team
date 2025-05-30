@@ -2,7 +2,7 @@
 # 2팀 - 10기 어때
 
 ---
-노션 : <a href="https://www.notion.so/README-201b07713ad880b09d60d9a1cc4c606f">
+노션 : <a href="https://www.notion.so/README-201b07713ad880b09d60d9a1cc4c606f">클릭</a>
 ## 1. 프로젝트 개요
 
 - 프로젝트명 : 숙박 관리 시스템
